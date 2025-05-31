@@ -1,0 +1,15 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "main": "ghana_mof_scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.9.0"
+  }
+}
